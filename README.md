@@ -8,7 +8,7 @@ Karl Popper argued that what makes a theory valuable isn't proof that it's right
 
 I'll also took some inspiration from watching World War Z, an intelligence officer talks about a "Tenth Man" rule: if people agree on something, the tenth is *obligated* to disagree. Their job isn't to be contrarian for fun, it's structural. Consensus is treated as a warning sign, not a finish line.
 
-Idea is to predict possible black swan events.
+Idea is to predict possible **black swan** events.
 
 TenthMan puts that logic into a loop you can actually run:
 
