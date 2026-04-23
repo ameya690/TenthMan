@@ -1,6 +1,6 @@
 # TenthMan Protocol
 
-A multi-agent debate sandbox that stress-tests ideas by forcing disagreement.
+A multi-agent debate sandbox that stress tests ideas by forcing disagreement.
 
 ## The idea behind this
 
