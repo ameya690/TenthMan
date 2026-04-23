@@ -6,12 +6,14 @@ A multi-agent debate sandbox that stress tests ideas by forcing disagreement.
 
 Karl Popper argued that what makes a theory valuable isn't proof that it's right — it's that you *can* prove it wrong. A theory that can't be attacked can't be trusted. Science doesn't advance by confirmation. It advances by surviving attempts at destruction.
 
-I'll also took some inspiration from watching World War Z, a intelligence officer talks about a "Tenth Man" rule: if people agree on something, the tenth is *obligated* to disagree. Their job isn't to be contrarian for fun, it's structural. Consensus is treated as a warning sign, not a finish line.
+I'll also took some inspiration from watching World War Z, an intelligence officer talks about a "Tenth Man" rule: if people agree on something, the tenth is *obligated* to disagree. Their job isn't to be contrarian for fun, it's structural. Consensus is treated as a warning sign, not a finish line.
+
+Idea is to predict possible black swan events.
 
 TenthMan puts that logic into a loop you can actually run:
 
-1. Two agents with different analytical lenses evaluate a claim independently
-2. If they agree, a designated adversary builds the strongest possible counter-case (with web search for real evidence)
+1. Two or more agents with different analytical lenses evaluate a claim independently
+2. If they agree, a designated adversary (TenthMan agent) builds the strongest possible counter-case (with web search for real evidence)
 3. The original agents re-vote anonymously — identities stripped to reduce social pressure
 4. You see what held, what broke, and why
 
